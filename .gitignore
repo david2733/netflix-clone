@@ -4,6 +4,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+db.sqlite3 
+
 # C extensions
 *.so
 
@@ -41,6 +43,8 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+
+venv/
 
 # Unit test / coverage reports
 htmlcov/
